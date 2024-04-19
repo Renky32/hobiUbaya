@@ -20,4 +20,27 @@
       "lastname": "Doe"
     }
   ]
+  "hobby" : [
+  {
+    "username": "john_doe",
+    "judul": "Memasak",
+    "sinopsis": "Menikmati masak-memasak bersama teman dan keluarga.",
+    "urlGambar": "https://example.com/memasak.jpg",
+    "detail": "Hobby memasak sudah menjadi bagian dari hidup saya sejak kecil. Saya senang bereksperimen dengan berbagai resep dan mencoba masakan dari berbagai belahan dunia."
+  },
+  {
+    "username": "jane_smith",
+    "judul": "Berkebun",
+    "sinopsis": "Menanam tanaman hias dan sayuran di halaman rumah.",
+    "urlGambar": "https://example.com/berkebun.jpg",
+    "detail": "Saya suka berkebun karena bisa memberikan rasa damai dan ketenangan. Melihat tanaman tumbuh dan berkembang memberikan kepuasan tersendiri."
+  },
+  {
+    "username": "david_wong",
+    "judul": "Membaca",
+    "sinopsis": "Menikmati cerita-cerita dari berbagai genre buku.",
+    "urlGambar": "https://example.com/membaca.jpg",
+    "detail": "Membaca adalah salah satu cara saya untuk mengisi waktu luang. Saya suka mengeksplorasi berbagai genre buku, mulai dari fiksi hingga nonfiksi, dan selalu mencari pelajaran dan inspirasi dari setiap buku yang saya baca."
+  }
+]
 }
