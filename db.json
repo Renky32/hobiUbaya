@@ -19,7 +19,7 @@
       "lastname": "Doe"
     }
   ],
-  "hobbies": [
+  "hobby": [
     {
       "username": "john_doe",
       "judul": "Memasak",
