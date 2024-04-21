@@ -1,5 +1,6 @@
 [
-    { "id" : 1,
+    { 
+      "id" : 1,
       "username": "john_doe",
       "judul": "Memasak",
       "sinopsis": "Menikmati masak-memasak bersama teman dan keluarga.",
