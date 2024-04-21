@@ -1,5 +1,4 @@
 [
-"hobby": [
     {
       "username": "john_doe",
       "judul": "Memasak",
@@ -21,5 +20,5 @@
       "urlGambar": "https://picsum.photos/200/300",
       "detail": "Membaca adalah salah satu cara saya untuk mengisi waktu luang. Saya suka mengeksplorasi berbagai genre buku, mulai dari fiksi hingga nonfiksi, dan selalu mencari pelajaran dan inspirasi dari setiap buku yang saya baca."
     }
-  ]
+  
 ]
